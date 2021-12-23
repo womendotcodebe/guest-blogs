@@ -51,18 +51,18 @@ It might sound obvious, but accessibility should already be included as much as 
 
 Before diving into our list of where you can learn front-end development, we selected a few screenshots of websites that we think are cool! They also show a nice variety of styles and effects that can be done in the front-end. 🤩
 
-{% image {src: "./blog/submitted/images/learntocode-frontend-example-6.png", alt: "808303.studio is a new online music creation platform created by Yuri Suzuki, the Design Museum and Roland. Check out the website and create your own music!", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/learntocode-frontend-example-6.png", alt: "808303.studio is a new online music creation platform created by Yuri Suzuki, the Design Museum and Roland. Check out the website and create your own music!", widths: [300,600,1000]} %}
 
 
-{% image {src: "./blog/submitted/images/learntocode-frontend-example-1.png", alt: "Aesop aromatique candles - product website", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/learntocode-frontend-example-1.png", alt: "Aesop aromatique candles - product website", widths: [300,600,1000]} %}
 
-{% image {src: "./blog/submitted/images/learntocode-frontend-example-4.png", alt: "Markit by Reify product website", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/learntocode-frontend-example-4.png", alt: "Markit by Reify product website", widths: [300,600,1000]} %}
 
-{% image {src: "./blog/submitted/images/learntocode-frontend-example-3.png", alt: "Aurélia Durand - Illustrator portfolio website", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/learntocode-frontend-example-3.png", alt: "Aurélia Durand - Illustrator portfolio website", widths: [300,600,1000]} %}
 
-{% image {src: "./blog/submitted/images/learntocode-frontend-example-2.png", alt: "The Never Lands - website", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/learntocode-frontend-example-2.png", alt: "The Never Lands - website", widths: [300,600,1000]} %}
 
-{% image {src: "./blog/submitted/images/learntocode-frontend-example-5.png", alt: "The GitHub homepage with a cool animated globe", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/learntocode-frontend-example-5.png", alt: "The GitHub homepage with a cool animated globe", widths: [300,600,1000]} %}
 
 ## Start learning the basics of front-end development (for free)
 

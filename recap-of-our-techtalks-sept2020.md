@@ -18,7 +18,7 @@ On the evening of the 14th September 2020, the women.code(be) community held the
 
 ## 1. Ownership of the Benefits of Development
 
-{% image {src: "./blog/submitted/images/techtalks-sanne.jpg", alt: "Sanne Vermeiren", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-sanne.jpg", alt: "Sanne Vermeiren", widths: [300]} %}
 
 **Sanne Vermeiren**
 
@@ -48,7 +48,7 @@ If a customer says they want to work with AI, blockchain, or some other fancy ne
 
 ## 2. WeGoSTEM, the Corona Edition
 
-{% image {src: "./blog/submitted/images/techtalks-nele.jpg", alt: "Nele Van Beveren", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-nele.jpg", alt: "Nele Van Beveren", widths: [300]} %}
 
 **Nele Van Beveren**
 
@@ -62,7 +62,7 @@ Their goal is to enable 10 000 children to build a robot this year. Which is alr
 
 The main focus of WeGoSTEM is to encourage minorities. Their aim is to have 50% of their pupils to be girls, and to include children from disadvantaged backgrounds. They do this by giving their workshops in elementary schools. Last year they reached more than 7000 children in 170 schools in Belgium.
 
-{% image {src: "./blog/submitted/images/wegostem-nele.png", alt: "WeGoStem"} %}
+{% image {src: "./blog/guest-blogs/images/wegostem-nele.png", alt: "WeGoStem"} %}
 
 With the constraints of Covid-19 it was not possible to send their usual 3 volunteers to each class and give a hands-on experience. Their rather ingenious solution was to improve their existing digital materials, including an online simulator for the robot, and offer Massive Open Online Courses for elementary school teachers. This way the teachers can give the workshops themselves, of course still with guidance from the volunteers, albeit from distance. The materials for the actual robots are sent to the classrooms.
 
@@ -70,7 +70,7 @@ Even though the new way of working comes with considerable challenges, we’re s
 
 ## 3. Lessons Learned from Working Remotely
 
-{% image {src: "./blog/submitted/images/techtalks-lien.jpg", alt: "Lien Van Den Steen", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-lien.jpg", alt: "Lien Van Den Steen", widths: [300]} %}
 
 **Lien Van Den Steen**
 
@@ -80,11 +80,11 @@ Lien likes automation and improving the lives of her colleagues through code. Sh
 
 Most of us have are now working in what Lien calls “*Forced Remote*“. I am really struggling with this, myself. What resonated with me a lot were the two tips she gives concerning this forced remote situation.
 
-{% image {src: "./blog/submitted/images/tip-lien-1.png", alt: "tip Lien 1"} %}
+{% image {src: "./blog/guest-blogs/images/tip-lien-1.png", alt: "tip Lien 1"} %}
 
 > “If you’re currently remote and you don’t like it, try to figure out what about it you don’t like. Maybe it’s not you but the way it’s being executed at your company.”
 
-{% image {src: "./blog/submitted/images/tip-lien-2.png", alt: "tip lien 2"} %}
+{% image {src: "./blog/guest-blogs/images/tip-lien-2.png", alt: "tip lien 2"} %}
 
 > “We all need more dedicated time for taking care of our mental health right now than when things are a bit more ‘normal’. Give yourself this time and space when possible.”
 
@@ -108,7 +108,7 @@ Working remote should not impact your career opportunities, but sometimes it doe
 
 ## 4. Hoist the Sails, We’ve Got TailwindCSS
 
-{% image {src: "./blog/submitted/images/techtalks-elke.jpg", alt: "Elke Heymans", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-elke.jpg", alt: "Elke Heymans", widths: [300]} %}
 
 **Elke Heymans**
 
@@ -118,7 +118,7 @@ Elke is a front-end developer with a focus on Vue and TypeScript. She finds expl
 
 TailwindCSS is a utility-first CSS framework for rapidly building custom designs. I’ve seen it mentioned a couple of times on twitter, so it was nice to get a bit of a crash course on what it all entails.
 
-{% image {src: "./blog/submitted/images/tailwind.png", alt: "TailwindCSS logo"} %}
+{% image {src: "./blog/guest-blogs/images/tailwind.png", alt: "TailwindCSS logo"} %}
 
 Most CSS frameworks today are component based. Which means that they provide the necessary CSS to style a specific component, for instance a button. This is how they’re organized. These types of frameworks are ideal for prototyping, ready to use and provide uniform styling. However, these predesigned components can be limiting as well, making most things look very similar. Which is why every Bootstrap website looks at least kind of similar.
 
@@ -138,7 +138,7 @@ Of course, like any framework, TailwindCSS comes with pros and cons, and Elke sp
 
 ## 5. Best Practices: A Look Back
 
-{% image {src: "./blog/submitted/images/techtalks-martin.jpg", alt: "Martin Vanaken", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-martin.jpg", alt: "Martin Vanaken", widths: [300]} %}
 
 **Martin Van Aken**
 
@@ -158,7 +158,7 @@ But, not all unit tests are useful. In some cases, the unit tests could break, b
 Development is about adapting to change. The key to being able to adapt to change is to work agile. Every good company does this.
 But, what if the project has very specific requirements that are mandatory by law? We cannot just cut these parts of the scope because that is the agile way. Also, agile tends to be implemented in companies using a lot of overhead: meetings, standup, boards, etc. In smaller projects this overhead can cause enormous delays.
 
-{% image {src: "./blog/submitted/images/20-years-of-best-practices-and-back.png", alt: "Don't duplicate code"} %}
+{% image {src: "./blog/guest-blogs/images/20-years-of-best-practices-and-back.png", alt: "Don't duplicate code"} %}
 
 **Never Duplicate Code**
 If the same code is copied in several places it becomes a mess to change afterwards. You cannot know if you’ve changed every instance of that code snippet, resulting in inconsistencies.
