@@ -1,5 +1,14 @@
 # Post format and author profile guide
 
+This guide covers the following content:
+- [Author profile](#author-profile)
+- [Post formatting](#post-formatting)
+    - [Yaml Front Matter](#yaml-front-matter)
+    - [Custom Markdown Formatting](#custom-markdown-formatting)
+        - [Exerpts / preview text](#excerpt--preview)
+        - [Code blocks](#code-blocks)
+        - [Images and image layout options](#images-and-image-layout-options)
+
 ## Author profile
 If it's your first time posting add or link the following information to your pull request:
 - name (firstname + first letter of your last name)
@@ -66,7 +75,7 @@ As you can see in the example above, the `<!--excerpt -->` has been put between 
 If you are writing a blogpost that contain showing pieces of code, you can make use of code highlighting.
 
 Inline code:
-\`let item = "potion;"`
+`\`let item = "potion;"``
 
 Code block:
 \```js
