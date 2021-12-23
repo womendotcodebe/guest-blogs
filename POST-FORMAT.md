@@ -5,9 +5,10 @@ This guide covers the following content:
 - [Post formatting](#post-formatting)
     - [Yaml Front Matter](#yaml-front-matter)
     - [Custom Markdown Formatting](#custom-markdown-formatting)
-        - [Exerpts / preview text](#excerpt--preview)
+        - [Excerpts / preview text](#excerpt--preview)
         - [Code blocks](#code-blocks)
         - [Images and image layout options](#images-and-image-layout-options)
+- [How to submit a post](#how-to-submit-a-post)
 
 ## Author profile
 If it's your first time posting add or link the following information to your pull request:
@@ -87,7 +88,9 @@ const toCelsius = (fahrenheit) => {
 
 #### Images and image layout options
 
-To add images, you need to use a piece of custom shortcode that we have created to optimize all images for web.
+To add images, you need to use a piece of custom shortcode that we have created to optimize all images for web. Make sure your images have a width of 1000px, anything smaller than might give a very poor result. 
+
+If you want to reduce / compress your image's filesize you can use something like [TinyPNG](https://tinypng.com/) (free)
 
 
 Example of the image shortcode:
@@ -117,5 +120,16 @@ A few images displayed inline:
 ```
 
 
+## How to submit a post
 
-If something in this guide is unclear or you want to add something new, feel free to reach out to Claudia.
+To submit a post you need to be familiar with Git and GitHub.
+
+1. Clone this repository to your local system
+2. Create a new branch
+3. Add the blogpost and images you want to submit and images
+4. Push it to our repo
+5. Click Create pull request to open a new pull request. (always compare with main)
+
+
+
+If something in this guide is unclear, you need some help or you want to add something new, feel free to reach out to Claudia.
