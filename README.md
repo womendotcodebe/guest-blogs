@@ -20,4 +20,4 @@ To credit your guest post an author profile is created. If you already have post
 If you have an idea and it doesn't really fit any of the listed content types, check with us first.
 
 
-Ready to start submit a guestpost? Check out our formatting guide next.
+Ready to start submit a guestpost? [Check out our wiki for more info](https://github.com/womendotcodebe/guest-blogs/wiki)
