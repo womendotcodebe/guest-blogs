@@ -1,7 +1,7 @@
 # Welcome community guest bloggers! 👋
 This guide will help you on your way contribute to the womendotcodebe community blog.
 
-## Who can contribute? 👩🏽‍💻👩🏾‍💻👩🏻‍💻👩‍💻👩🏿‍💻👩🏼‍💻
+## Who can contribute? 👩🏾‍💻👩🏼‍💻👩🏿‍💻👩🏻‍💻👩🏽‍💻
 Women who code that are currently living in Belgium. Wether you are just beginning your coding journey or are an experienced programmer, you are welcome to submit your guest posts to our community-driven blog.
 
 ## Credit and ownership 🙋🏻‍♀️
