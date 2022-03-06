@@ -15,7 +15,7 @@ featured: false
 
 
 
-In the [first part of this series](/learn-to-code-how-to-get-started-with-android-development/), we talked about how to get started with Android development. The courses I recommended in the first part teach all the fundamentals of Android development. However, as you might expect, there is more to Android. 
+In the [first part of this series](https://womendotcode.be/blog/learn-to-code-how-to-get-started-with-android-development/), we talked about how to get started with Android development. The courses I recommended in the first part teach all the fundamentals of Android development. However, as you might expect, there is more to Android. 
 
 If you are curious what else there is to learn, take a look at this [roadmap for Android developers](https://github.com/mobile-roadmap/android-developer-roadmap) to have an idea. Don’t get intimidated by the huge number of things to learn, though. You don’t have to master them all at once to publish an app or to be *job ready*; some of those APIs, you’ll only learn them when you need them.
 

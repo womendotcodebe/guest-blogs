@@ -45,9 +45,9 @@ I’ll suggest two different roadmaps for learning Android development, dependin
 
 Note that I’ll be sharing several alternative resources below for each topic; take a glance at them and pick the one that works the best for you. You don’t need to study them all! 
 
-## **Case 1 – You have no prior programming experience**
+## Case 1 – You have no prior programming experience
 
-### **Step 0\*: Java**
+### Step 0\*: Java
 
 *I’ll be suggesting a roadmap for learning Android with Kotlin below. However, as I mentioned before, knowing at least a bit of Java would be beneficial in the long run. It is up to you to learn this in the beginning, or to skip it for now, and learn it later whenever you feel the need. In any case, I list some free Java courses that you can check out:
 
@@ -55,7 +55,7 @@ Note that I’ll be sharing several alternative resources below for each topic; 
 - [Code Academy Java Course](https://www.codecademy.com/learn/learn-java) : Free online course
 - [Intro to Java Programming](https://www.youtube.com/watch?v=GoXwIVyNvX0) : Youtube video course by freeCodeCamp.org
 
-### **Step 1 : Learn basics of Android and Kotlin**
+### Step 1 : Learn basics of Android and Kotlin
 
 Google’s Android team recently prepared this [Android Basics in Kotlin course](https://developer.android.com/courses/android-basics-kotlin/course) for people who have no programming experience. It teaches Kotlin and Android in parallel. It is mostly composed of codelabs, with supportive videos and extra resources. But more importantly, it is up-to-date and it teaches coding with the latest libraries and good practices. This probably makes it one of the best free courses you can find for beginners.
 
@@ -66,7 +66,7 @@ Although the former course teaches Kotlin from scratch, you might find it useful
 - [Kotlin Crash course](https://www.youtube.com/watch?v=5flXf8nuq60) : Youtube video course by Traversy Media
 - [Kotlin Crash course](https://www.youtube.com/watch?v=F9UC9DY-vIU) : Youtube video course by freeCodeCamp.org
 
-### **Step 2 : Learn version control**
+### Step 2 : Learn version control
 
 At this point, you might take a break to learn a bit *version control*, more specifically Git and Github. This might not seem as fun as app development, but it is a lifesaver and must-to-learn for all developers. Here are some git/github courses: 
 

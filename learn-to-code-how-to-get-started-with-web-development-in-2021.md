@@ -12,15 +12,13 @@ featured: false
 ---
 
 
-
-
 We are a few weeks into 2021 and we have all realized that times have definitely changed. With the pandemic many jobs went partially or fully remote. Many are considering switching careers for something that can be done from home. If you are one of those people I recommend you look into web development.
 
-## **What is Web Development?**
+## What is Web Development?
 
 Web development involves the building and maintenance of websites. This can include a simple website such as a small coffee shop’s site to extremely complex websites like Facebook and Twitter. To become a web developer all you need is a computer and good internet connection. 
 
-## **Why Web Development?**
+## Why Web Development?
 
 With web development as one of your skill sets you will be better placed in the job market and many more doors will open. You can even start your own business as a freelance web developer. The options are endless and with the ever-evolving tech industry there is no limit.
 
@@ -42,7 +40,7 @@ In this article I will share with you resources that **are completely free** and
 
 [W3Schools](https://www.w3schools.com/) is my go-to reference. I always go back to it when I get stuck or have quick questions about HTML, CSS, or JavaScript. At the beginning of my journey I used it a lot to read up on the basics of CSS. You can also try out the code and see how it works. This website is great if you use it in combination with any of the other apps and websites mentioned here.
 
-### **5. YouTube**
+### 5. YouTube
 
 YouTube is not necessarily a course but there are many great tutorials that you can watch and learn a lot from. However, try not to get stuck in tutorial loops. Watch a video and start practicing what you learned. Make your own projects to ensure that the knowledge is sticking.
 
