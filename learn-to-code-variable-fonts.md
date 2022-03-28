@@ -20,9 +20,9 @@ If you have been working with custom web fonts you are used to a good ol’ fold
 
 ### Variable fonts
 
-With variable fonts all the font’s permutations are contained in a single file. The regular shape of the character plus the deltas of where the points move along those curves to make the variations are stored in one single file. Instead of having the single variations' files ready to go, variable fonts are storing the code instructions to make each of these variations - smart, right? The difference in weight is remarkable: a variable font can be like 230KB, much smaller than loading multiple variants of a classic web font (each of them being around 200KB)!
+With variable fonts all the font’s permutations are contained in a single file. The regular shape of the character and the deltas of where the points move along to make the variations are stored in one single file. Instead of having the single variations' files ready to go, variable fonts are storing the code instructions to make each of these variations - smart, right? The difference in weight is remarkable: a variable font can be like 230KB, much smaller than loading multiple variants of a classic web font (each of them being around 200KB)!
 
-Each variant of a font is bound to an axis, which is a specific setting that can change how the font looks. The variants of a font are defined by the type designer. There are five registered axes, which correspond to the classic font variations (width, weight, italic, slant, optical size). In addition to those custom axes can also be defined and they can be anything and everything, such as gravity spread, drippiness and other cool effects.
+Each variant of a font is bound to an axis, which is a specific setting that can change how the font looks. The variants of a font are defined by the type designer. There are five registered axes, which correspond to the classic font variations (width, weight, italic, slant, optical size). If you want to see a font morphing on its registered axes take a look at [this article](https://variablefonts.io/about-variable-fonts/). In addition to those custom axes can also be defined and they can be anything and everything, such as gravity spread, drippiness and other cool effects.
 
 
 ## How to use variable fonts
@@ -36,7 +36,7 @@ High-level properties:  font-weight, font-stretch, font-style, font-optical-sizi
 - ital and slnt for font-style
 - opsz for font-optical-sizing
 
-As a convention registered axis are represented with lowercase letters while custom axes are represented with uppercase letters. 
+As a convention registered axes are represented with lowercase letters while custom axes are represented with uppercase letters. 
 
 Here is how you set variable font properies with high-level properties 
 
@@ -56,18 +56,19 @@ And here is the same code with low-level properties
     font-variation-settings: 'wght' 300, 'wdth' 100;  
     } 
 ```
-[This](https://www.youtube.com/watch?v=9IFqv5uVP_c&t=2728s&ab_channel=EnvatoTuts%2B) free one-hour-long cours is going to walk you though the basic steps to set up and use variable fonts on your project.
+
+[This](https://www.youtube.com/watch?v=9IFqv5uVP_c&t=2728s&ab_channel=EnvatoTuts%2B) free one-hour-long cours is going to walk you though the basic steps of setting up and using variable fonts on your project.
 
 ### Browser and software support 
 
 Developers of Edge, Chrome and Safari are part of the open type variable fonts projects, so it no surprise that Chrome and Edge have the best support. Safari has also good support provided that you have MacOS10.13 or higher. Firefox does not have full support yet.
 
-If you want to use variable fonts in websites’ mock-ups, you can design them in Photoshop or Illustrator. Photoshop can also be a preview tool for variable fonts. 
+If you decide to use variable fonts in your next designs you can use Photoshop or Illustrator, or try the [samsa.js](https://www.figma.com/community/plugin/966184368629063440/Variable-Fonts) plugin on Figma. Photoshop can also be used as a preview tool for variable fonts. 
 
 
 ## Where to find variable fonts
 
-[Axispraxis](https://www.axis-praxis.org) and [V-fonts](https://v-fonts.com/) are two great resources for discovering variable fonts. On both on them you can play around with sliders to see the fonts’ variations on the various axis - very satisfying. I highly recommend  the [Smashing Podcast episode](https://www.smashingmagazine.com/2019/12/smashing-podcast-episode-5/) on variable fonts with Jason Pamental, the ultimate web typography connoisseur, to delve deeper in the topic. 
+[Axispraxis](https://www.axis-praxis.org) and [V-fonts](https://v-fonts.com/) are two great resources for discovering variable fonts. On both sites you can play around with sliders to see the fonts’ variations on the various axes - very satisfying. [Google Fonts](https://fonts.google.com/variablefonts) also provides loads of variable fonts, without the fun sliders tho. To delve deeper in the topic highly recommend to listen to the [Smashing Podcast episode](https://www.smashingmagazine.com/2019/12/smashing-podcast-episode-5/) on variable fonts with Jason Pamental, the ultimate web typography connoisseur. And if you want to venture even further take a look at this valuable list of resources compiled by [A Variable Fonts Primer](https://variablefonts.io/variable-font-resources/)
 
 ### Conclusions
 
