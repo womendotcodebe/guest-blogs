@@ -12,15 +12,15 @@ featured: false
 
 ---
 
-You might not be a web typography freak, but no developer likes a FOUT (Flash Of Unstyled Text) welcoming users on their pages. Variable fonts are here to help. And if you really are the web typography freak type you will be even more enticed to hear about variable fonts. So let’s get started!
+You might not be a web typography freak, but no developer likes a FOUT (Flash Of Unstyled Text) welcoming users on their pages. Variable fonts are here to help. And if you really are this kind of web typography freak you will be even more enticed to hear about variable fonts. So let’s get started!
 
 ## Web fonts
 
-If you have been working with custom web fonts you are used to a good ol’ folder with several single files, one for each width, weight, slant of the font. For each font variation you want to use on the web page a bit of data that must be downloaded, processed, and rendered by the browser, which can end up causing performance issues. To avoid these issues developers have been trying to to cut on the number of loaded files by using less fonts variations. This might do the job in terms of performance but it’s not great typography practice since graphic designers will tell you that it’s normal to use a up to 8-10 different weights and variants of a typeface to create a balanced and readable layout.
+If you have been working with custom web fonts you are used to a good ol’ folder with several single files, one for each width, weight, slant of the font. For each font variation you want to use on the web page a bit of data that must be downloaded, processed, and rendered by the browser, which can end up causing performance issues. To avoid these issues developers have been trying to to cut on the number of loaded files by using less fonts variations. This might do the job in terms of performance but it’s not a great practice in typography: graphic designers will tell you that it’s normal to use a up to 8-10 different weights and variants of a typeface to create a balanced and readable layout.
 
 ### Variable fonts
 
-With variable fonts all the font’s permutations and variations are contained in a single file: the regular shape of the character plus the deltas of where the points along those curves would move are stored in one single file. Instead of having the single variations files ready to go, variable fonts are storing the code instructions to make each of the variations - smart, right? The difference in weight is remarkable: a variable font can be like 230KB, much smaller than a web font single file!
+With variable fonts all the font’s permutations are contained in a single file. The regular shape of the character plus the deltas of where the points move along those curves to make the variations are stored in one single file. Instead of having the single variations' files ready to go, variable fonts are storing the code instructions to make each of these variations - smart, right? The difference in weight is remarkable: a variable font can be like 230KB, much smaller than loading multiple variants of a classic web font (each of them being around 200KB)!
 
 Each variant of a font is bound to an axis, which is a specific setting that can change how the font looks. The variants of a font are defined by the type designer. There are five registered axes, which correspond to the classic font variations (width, weight, italic, slant, optical size). In addition to those custom axes can also be defined and they can be anything and everything, such as gravity spread, drippiness and other cool effects.
 
