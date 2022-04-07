@@ -9,7 +9,6 @@ tags:
     - guest-post
 layout: article
 preview: "Code is one of those things in life, where you don't know how useful it is until you get really proficient at it."
-featured: true
 ---
 
 Code is one of those things in life, where you don’t know how useful it is until you get really proficient at it.
