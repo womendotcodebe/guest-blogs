@@ -1,6 +1,6 @@
 ---
 title: "Getting started with variable fonts"
-date: 2022-06-04
+date: 2022-04-06
 cover: "getting-started-with-variable-fonts.jpg"
 caption: "Photo by Markus Spiske on <a target='_blank' href='https://unsplash.com/photos/f81ym3dE5N4' rel='noreferrer'>Unsplash</a>"
 author: "federicab"
