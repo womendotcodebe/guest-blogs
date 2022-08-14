@@ -16,7 +16,7 @@ Lisa Trapletti shared some tips on how to eco-design our system, Asma Oualmakran
 
 <!-- excerpt -->
 
-## Lisa Trapletti - Eco-designing its digital services. A path to sustainable IT
+## Lisa Trapletti - A path to sustainable IT. Eco-designing its digital services.
 
 {% image {src: "./blog/guest-blogs/images/techtalks-sophie.png", alt: "Sophie Ragas", widths: [300]} %}
 
@@ -58,7 +58,7 @@ Of all end user devices the top 3 with the biggest environmental impact are:
 
 Maybe you too were expecting to see the smartphone showing up as number one? With 4,5% the smartphone only comes sixth in the list but here’s the caveat: this ranking takes into account impact due to both manufacturing and use. While the smartphone has a negligible impact in terms of usage (it doesn’t need to be plugged in to function) it has the highest impact for manufacturing only.
 
-### What can we do as citizen?
+### What can we do as citizens?
 
 As citizens we can adopt a digital sobriety approach: try to buy less equipment, and when we do, go for something useful and long-lasting.
 We should always ask ourself the question “Do I really need this equipment?” before buying another tech gadget.
@@ -139,7 +139,7 @@ There are two ways to uncover weaknesses and vulnerabilities:
 
 Both are necessary because a code inspection spots issues that are unacknowledged by a penetration test.
 
-Here are some catchphrases often heard in the tech industry. The person who pronounces them probably thinks their company is handling security pretty well, but these partial implementation of security good practices can actually backfire:
+Here are some catchphrases often heard in the tech industry. The person who pronounces them probably thinks their company is handling security pretty well, but these partial implementation of security good practices can actually make it worse:
 
 - **“We’re doing our yearly pentest (penetration testing) so our code is secure!”**
   We already know that a penetration test cannot catch all the vulnerabilities in an application. In addition to that, the penetration test happens late in the process, when fixing issues can be 10-100 times more expensive. In terms of workflow is not ideal, because it separates security issues from “regular” development work, allowing fixing issues to be postponed. This late rework can cause rushed fixes, with no compliance to industry standards and regulations.
@@ -182,7 +182,7 @@ If you work in an Agile team you are probably not so sure about how to integrate
 
 Liza Morrison is a software engineer from the United States, who specialises in front-end development. She moved to Belgium a year ago and has recently joined as a developer at Rosa.
 
-### Performance and speed
+### Performance and speed on the web
 
 The harsh truth is that 40% of visitors are going to leave your page if it doesn’t display correctly within the first 3 seconds.
 
