@@ -26,11 +26,11 @@ Lisa is a senior software developer working for iCure. She is certified in eco-d
 
 Let’s kick off with some shocking numbers on the IT industry.
 
-Computing technologies are part of 5 billions of users's daily life with 34 billions of connected devices, and it’s estimated that these numbers will double by 2025! 😱
+With 34 billions of connected devices, computing technologies are part of 5 billions of users's daily life. And it’s estimated that these numbers will double by 2025! 😱
 
 The environmental costs of IT’s ever-expanding presence are skyrocketing too. Here are some figures:
 
-- The IT industry produces 4% of the greenhouse gas (GHG) emissions in the world (more than the aviation sector which is responsible only for 2% of GHG emissions)
+- The IT industry produces 4% of the greenhouse gas (GHG) emissions in the world (more than the aviation sector, which is responsible for 2% of GHG emissions)
 - It takes 10% of the world-wide electricity consumption
 - It is responsible for abiotic resources depletion
 - It perpetrates inhumane working conditions. In the Democratic Republic of Congo 6 million of workers died in coltan mines, a material used to produce electronics.
@@ -46,7 +46,7 @@ We can identify two sources of impact:
 1. The manufacture of equipment
 2. The manufacture of electricity
 
-Even if data centres conjure the image of the most energy-consuming part of IT industry, it is the end user devices that are responsible for most of the environmental impact - and especially their manufacture!
+Even if data centres conjure the image of the most energy-consuming part of IT industry, it's the end user devices that are responsible for most of the environmental impact - and especially their manufacture!
 
 {% image {src: "./blog/guest-blogs/images/techtalks-summer-2021-img1.pdf", alt: "a table showing that end user devices have by far the highest ecological impact (67,2%, compared to 12,3% of networks and 20,6% of data centres)", widths: [300,600,1000]} %}
 
@@ -56,20 +56,20 @@ Of all end user devices the top 3 with the biggest environmental impact are:
 2. Desktop (7,5%)
 3. Laptop (7%)
 
-Maybe you too were expecting to see the smartphone showing up as number one? With 4,5% the smartphone only comes sixth in the list but here’s the caveat: this ranking takes into account impact due to both manufacturing and use. While the smartphone has a negligible impact in terms of usage (it doesn’t need to be plugged to energy to function) it has the highest impact for manufacturing only.
+Maybe you too were expecting to see the smartphone showing up as number one? With 4,5% the smartphone only comes sixth in the list but here’s the caveat: this ranking takes into account impact due to both manufacturing and use. While the smartphone has a negligible impact in terms of usage (it doesn’t need to be plugged in to function) it has the highest impact for manufacturing only.
 
 ### What can we do as citizen?
 
-As citizens can adopt a digital sobriety approach: try to buy less equipment, and when we do we should go for something useful and long-lasting.
+As citizens we can adopt a digital sobriety approach: try to buy less equipment, and when we do, go for something useful and long-lasting.
 We should always ask ourself the question “Do I really need this equipment?” before buying another tech gadget.
-If the answer is yes, one can still choose a product with an eco-certification which takes into account both its ecological and the social costs. The most commons eco-certifications for tech products are:
+If the answer is yes, we can still choose a product with an eco-certification which takes into account both its ecological and social costs. The most commons eco-certifications for tech products are:
 
 - **TCO** Smartphones, tablets, computers, monitors, headphones, projectors
 - **EPEAT** Same as TCO + tv, printers, servers
 - **Blue Angel** Printers, Bureaucratic paper
 - **FSC** Recycled paper, coming from sustainable forests
 
-The main reason of changing our devices is that they become too slow, because software and applications are becoming heavier and heavier. As consumers we don’t have much agency on that, but as tech professionals we do. Which brings us to the next question.
+The main reason why we buy new electronics is that, as software and applications are becoming heavier and heavier, our devices become too slow. As consumers we don’t have much agency on that, but as tech professionals we do. Which brings us to the next question.
 
 ### What can we do as IT professionals?
 
@@ -92,7 +92,7 @@ The good practices discussed here are based on the book [Éco-conception web: Le
 - Implement a modular architecture
 - Include a circuit-breaker in your solution
 
-As developers we can implement only 20% of these eco-design practices - the remaining 80% concerns the before and after of writing code. This calls for a holistic approach to eco-design.
+As developers we can implement only 20% of the eco-design practices discussed in the book - the remaining 80% concerns the before and after of writing code. This calls for a holistic approach to eco-design.
 
 #### Some tips & tools
 
@@ -107,7 +107,7 @@ To repair your devices : [Repaircafe](https://repaircafe.org/fr/) & [Fixware](ht
 
 {% image {src: "./blog/guest-blogs/images/techtalks-autumn-2021-img5.png", alt: "a visual representation of how a satellite measures the fraction of reflected solar radiation", widths: [300,600,1000]} %}
 
-Asma is a Software Security Consultant at Software Improvement Group. She started as a general software person and then decided to specialize in security. Outside of her consultant role she is also a security officer, part of the research and development team (R&D) and a technical consultant.
+Asma is a Software Security Consultant at Software Improvement Group. She started as a general software person and then decided to specialise in security. Outside of her consultant role she is also a security officer, part of the research and development team (R&D) and a technical consultant.
 
 ### Some vocabulary
 
@@ -115,7 +115,7 @@ Cyber crime has been making the headlines, especially after covid. According to 
 
 {% image {src: "./blog/guest-blogs/images/techtalks-summer-2021-img2.png", alt: "1 Malware, 2 Web-based attacks, 3 Phishing, 4 Web application attacks, 5 Spam, 6 DDos, 7 Identity theft, 8 Data breach, 9 Insider threat, 10 Botnets, 11 Physical manipulation, damage, theft and loss, 12 Information leakage, 13 Ransomware, 14 Cyberespionage, 15 Cryptojacking", widths: [300,600,1000]} %}
 
-First of all let’s define some fundamental cybersecurity concepts:
+Let’s define some fundamental cybersecurity concepts:
 
 - **Threat** An attacker or situation that might cause a weakness to become a security incident
 - **Risk** An assessment of an unwanted event based on a threat, considering chance and impact
@@ -142,7 +142,7 @@ Both are necessary because a code inspection spots issues that are unacknowledge
 Here are some catchphrases often heard in the tech industry. The person who pronounces them probably thinks their company is handling security pretty well, but these partial implementation of security good practices can actually backfire:
 
 - **“We’re doing our yearly pentest (penetration testing) so our code is secure!”**
-  We already know that a penetration test cannot catch all the vulnerabilities in an application. In addition to that, the penetration test happens late in the process, when fixing issues can be 10-100 times more expensive. In terms of workflow is not ideal either, because it separates security issues from “regular” development work, allowing fixing issues to be postponed. This late rework can cause rushed fixes, with no compliance to industry standards and regulations.
+  We already know that a penetration test cannot catch all the vulnerabilities in an application. In addition to that, the penetration test happens late in the process, when fixing issues can be 10-100 times more expensive. In terms of workflow is not ideal, because it separates security issues from “regular” development work, allowing fixing issues to be postponed. This late rework can cause rushed fixes, with no compliance to industry standards and regulations.
 
 - **“We are fixing security by buying code inspection tools!”**
   The issue with this approach is that tools cannot find every vulnerability. Without an appropriate training or guidance the high complexity and the large output of these tools can be overwhelming for the team.
@@ -180,11 +180,11 @@ If you work in an Agile team you are probably not so sure about how to integrate
 
 {% image {src: "./blog/guest-blogs/images/techtalks-marta.png", alt: "Marta Luffarelli", widths: [300]} %}
 
-Liza Morrison is a software engineer from the United States, who specializes in front-end development. She moved to Belgium a year ago and has recently joined as a developer at Rosa.
+Liza Morrison is a software engineer from the United States, who specialises in front-end development. She moved to Belgium a year ago and has recently joined as a developer at Rosa.
 
 ### Performance and speed
 
-The harsh truth is that 40% of visitors are going to leave your page if that doesn’t display correctly within the first 3 seconds.
+The harsh truth is that 40% of visitors are going to leave your page if it doesn’t display correctly within the first 3 seconds.
 
 Today speed is everything, especially on the web. Not only for user experience and for those who are constantly in a hurry: having a top performance score is also going to improve the SEO (Search Engine Optimisation) of your page.
 
@@ -192,11 +192,11 @@ Time To Interactive (TTI), that is how long it takes your page to become fully i
 
 ### Ship less JavaScript
 
-When a website scores poorly on performance the blame falls on the the developer, but what is it was the framework’s fault instead?
+When a website scores poorly on performance the blame falls on the the developer, but what if it was the framework’s fault instead?
 
-A common problem in software design is that as more features are added to the application, performance decays. One solution to have an increasingly complex application whose performance rating stays the same is to ship less JavaScript.
+A common problem in software design is that as more features are added to the application, performance decays. One solution to keep performance rating stable in an increasingly complex application is to ship less JavaScript.
 
-[Qwik](https://qwik.builder.io/) is a new opensource framework designed for the fastest possible page load time. It focuses on HTML : before it displays the component then it makes it interactive. Qwik skips the TTO phase: it starts on the server side and downloading the Qwikloader, a tiny piece of JavaScript (less than 1KB) that knows how to download the rest of the application on an as-needed basis.
+[Qwik](https://qwik.builder.io/) is a new open source framework designed for the fastest possible page load time. It focuses on HTML : before it displays the component then it makes it interactive. Qwik skips the TTI phase: it starts on the server side and downloading the Qwikloader, a tiny piece of JavaScript (less than 1KB) that knows how to download the rest of the application on an as-needed basis.
 
 ### Qwik's architecture
 
@@ -204,7 +204,7 @@ Frameworks divide in mainly 2 types of architecture:
 
 - **Monolith** (eg Angular, React, Vue etc) the website is one large application. The browser downloads the application’s JavaScript, executes it and starts hydration process, using client-side JavaScript to add application state and interactivity to server-rendered HTML. Since these frameworks have a lazy loading approach, they only load components as they become visible on the page.
 
-- **Island aka Microservices** (eg Astro)The application is made out of single business units, each of them responsible for a feature. The downside is that each of them has to be bootstrapped individually and there is no easy way for them to interact with each other.
+- **Island aka Microservices** (eg Astro) The application is made out of single business units, each of them responsible for a feature. The downside is that each of them has to be bootstrapped individually and there is no easy way for them to interact with each other.
 
 Qwik sits between the two because it breaks the application in many little JavaScript bundles. When the user interacts with the UI only that component is rendered are only its JavaScript is executed.
 
