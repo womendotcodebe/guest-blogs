@@ -4,10 +4,10 @@ date: 2022-07-23
 author: "federicab"
 category: "techtalks"
 tags:
-  - post
-  - guest-post
+    - post
+    - guest-post
 layout: article
-metaIMG: "womendotcodebe-techtalks-recap-june2022.jpg"
+metaIMG: "womendotcodebe-techtalks-recap-sept2021.jpg"
 featured: true
 ---
 
