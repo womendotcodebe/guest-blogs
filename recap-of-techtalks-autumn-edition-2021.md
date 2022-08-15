@@ -12,7 +12,7 @@ metaIMG: "womendotcodebe-techtalks-recap-sept2021.jpg"
 featured: true
 ---
 
-It’s the last day of September and we’re in for a journey from pixels to space narrated by the voice of a screen reader! The two speakers Sophie Ragas and Marta Luffarelli talked about all things web accessibility and remote Earth Observation - here are the main takeovers from their presentations. 
+It’s the last day of September and we’re in for a journey from pixels to space narrated by the voice of a screen reader! The two speakers Sophie Ragas and Marta Luffarelli talked about all things web accessibility and remote Earth Observation - here are the main takeaways from their presentations. 
 <!-- excerpt -->
 
 ## Sophie Ragas - Practical Accessibility Tips
