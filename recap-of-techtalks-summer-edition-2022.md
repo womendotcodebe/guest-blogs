@@ -1,13 +1,13 @@
 ---
-title: Recap of our TechTalks summer edition 2021
-date: 2021-11-23
+title: Recap of our TechTalks summer edition 2022
+date: 2022-07-23
 author: "federicab"
 category: "techtalks"
 tags:
   - post
   - guest-post
 layout: article
-metaIMG: "womendotcodebe-techtalks-recap-june2021.jpg"
+metaIMG: "womendotcodebe-techtalks-recap-june2022.jpg"
 featured: true
 ---
 
@@ -48,7 +48,7 @@ We can identify two sources of impact:
 
 Even if data centres conjure the image of the most energy-consuming part of IT industry, it's the end user devices that are responsible for most of the environmental impact - and especially their manufacture!
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2021-img1.pdf", alt: "a table showing that end user devices have by far the highest ecological impact (67,2%, compared to 12,3% of networks and 20,6% of data centres)", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img1.pdf", alt: "a table showing that end user devices have by far the highest ecological impact (67,2%, compared to 12,3% of networks and 20,6% of data centres)", widths: [300,600,1000]} %}
 
 Of all end user devices the top 3 with the biggest environmental impact are:
 
@@ -105,7 +105,7 @@ To repair your devices : [Repaircafe](https://repaircafe.org/fr/) & [Fixware](ht
 
 ## Asma Oualmakran - Application security: Finding your way through buzzwords
 
-{% image {src: "./blog/guest-blogs/images/techtalks-autumn-2021-img5.png", alt: "a visual representation of how a satellite measures the fraction of reflected solar radiation", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-autumn-2022-img5.png", alt: "a visual representation of how a satellite measures the fraction of reflected solar radiation", widths: [300,600,1000]} %}
 
 Asma is a Software Security Consultant at Software Improvement Group. She started as a general software person and then decided to specialise in security. Outside of her consultant role she is also a security officer, part of the research and development team (R&D) and a technical consultant.
 
@@ -113,7 +113,7 @@ Asma is a Software Security Consultant at Software Improvement Group. She starte
 
 Cyber crime has been making the headlines, especially after covid. According to the European Union Agency for Cybersecurity (ENISA) the top 15 cyber threats emerged from the pandemic are the ones illustrated in this image:
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2021-img2.png", alt: "1 Malware, 2 Web-based attacks, 3 Phishing, 4 Web application attacks, 5 Spam, 6 DDos, 7 Identity theft, 8 Data breach, 9 Insider threat, 10 Botnets, 11 Physical manipulation, damage, theft and loss, 12 Information leakage, 13 Ransomware, 14 Cyberespionage, 15 Cryptojacking", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img2.png", alt: "1 Malware, 2 Web-based attacks, 3 Phishing, 4 Web application attacks, 5 Spam, 6 DDos, 7 Identity theft, 8 Data breach, 9 Insider threat, 10 Botnets, 11 Physical manipulation, damage, theft and loss, 12 Information leakage, 13 Ransomware, 14 Cyberespionage, 15 Cryptojacking", widths: [300,600,1000]} %}
 
 Let’s define some fundamental cybersecurity concepts:
 
@@ -151,11 +151,11 @@ Here are some catchphrases often heard in the tech industry. The person who pron
 
 If you look at a classic Software Development Life Cycle (SDLC) you will notice that security practices are implemented very late in the cycle.
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2021-img3.pdf", alt: "there are 6 phasse in the cycle (visualization of a software development cycle in six phases: Analysis, Design, Development, Testing, Deployment and Maintenance. Security practices come into play only in the penultimate step, between deployment and maintenance", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.pdf", alt: "there are 6 phasse in the cycle (visualization of a software development cycle in six phases: Analysis, Design, Development, Testing, Deployment and Maintenance. Security practices come into play only in the penultimate step, between deployment and maintenance", widths: [300,600,1000]} %}
 
 A better way to integrate security in a SDLC could be DevSecOps, where each phase has a security test associated to it. The idea is to treat security as a feature, not only as a requirement.
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2021-img3.pdf", alt: "there are 6 phase in the cycle (visualization of a DevSecOps approach where security practices are integrated in each step of the cycle: analysis is paired with security requirement, design with threat modelling and security by design, development with vulnerability scanning and opensource health, testing with security testing, deployment with security configuration, maintenance with vulnerability scanning and opensource health.", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.pdf", alt: "there are 6 phase in the cycle (visualization of a DevSecOps approach where security practices are integrated in each step of the cycle: analysis is paired with security requirement, design with threat modelling and security by design, development with vulnerability scanning and opensource health, testing with security testing, deployment with security configuration, maintenance with vulnerability scanning and opensource health.", widths: [300,600,1000]} %}
 
 If you work in an Agile team you are probably not so sure about how to integrate security practices: tracking and dealing with security is one of Agile Development’s blind spots. In [Agile Application Security](https://www.oreilly.com/library/view/agile-application-security/9781491938836/) you will find more information on how to integrate security in your workflow.
 
