@@ -1,13 +1,13 @@
 ---
 title: Recap of our TechTalks summer edition 2022
-date: 2022-07-23
+date: 2022-08-13
 author: "federicab"
 category: "techtalks"
 tags:
     - post
     - guest-post
 layout: article
-metaIMG: "womendotcodebe-techtalks-recap-sept2021.jpg"
+metaIMG: "womendotcodebe-techtalks-recap-june2022.jpg"
 featured: true
 ---
 
@@ -48,7 +48,7 @@ We can identify two sources of impact:
 
 Even if data centres conjure the image of the most energy-consuming part of IT industry, it's the end user devices that are responsible for most of the environmental impact - and especially their manufacture!
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img1.jpg", alt: "a table showing that end user devices have by far the highest ecological impact (67,2%, compared to 12,3% of networks and 20,6% of data centres)", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img1.jpg", alt: "a table showing that end user devices have by far the highest ecological impact (67,2%, compared to 12,3% of networks and 20,6% of data centres)", widths: [300,600,800]} %}
 
 Of all end user devices the top 3 with the biggest environmental impact are:
 
@@ -100,12 +100,12 @@ As developers we can implement only 20% of the eco-design practices discussed in
 * [To share files](https://filevert.fr/)
 * [For secured visio-conferences](https://www.infomaniak.com/fr/kmeet)
 * [To avoid WordPress to create a simple website](https://gohugo.io/)
-* To repair your devices : [Repaircafe](https://repaircafe.org/fr/) & [Fixware](https://www.fixware.be/)
+* To repair your devices: [Repaircafe](https://repaircafe.org/fr/) & [Fixware](https://www.fixware.be/)
 * [To buy reconditioned devices](https://www.asmartworld.be/)
 
 ## Application security: Finding your way through buzzwords by Asma Oualmakran
 
-{% image {src: "./blog/guest-blogs/images/techtalks-asma-oualmakran.jpg", alt: "Asma OUalmakran", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-asma-oualmakran.jpg", alt: "Asma Oualmakran", widths: [300]} %}
 
 Asma is a Software Security Consultant at Software Improvement Group. She started as a general software person and then decided to specialise in security. Outside of her consultant role she is also a security officer, part of the research and development team (R&D) and a technical consultant.
 
@@ -113,7 +113,7 @@ Asma is a Software Security Consultant at Software Improvement Group. She starte
 
 Cyber crime has been making the headlines, especially after covid. According to the European Union Agency for Cybersecurity (ENISA) the top 15 cyber threats emerged from the pandemic are the ones illustrated in this image:
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img2.png", alt: "1 Malware, 2 Web-based attacks, 3 Phishing, 4 Web application attacks, 5 Spam, 6 DDos, 7 Identity theft, 8 Data breach, 9 Insider threat, 10 Botnets, 11 Physical manipulation, damage, theft and loss, 12 Information leakage, 13 Ransomware, 14 Cyberespionage, 15 Cryptojacking", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img2.jpg", alt: "1 Malware, 2 Web-based attacks, 3 Phishing, 4 Web application attacks, 5 Spam, 6 DDos, 7 Identity theft, 8 Data breach, 9 Insider threat, 10 Botnets, 11 Physical manipulation, damage, theft and loss, 12 Information leakage, 13 Ransomware, 14 Cyberespionage, 15 Cryptojacking", widths: [300,600,800]} %}
 
 Let’s define some fundamental cybersecurity concepts:
 
@@ -151,11 +151,11 @@ Here are some catchphrases often heard in the tech industry. The person who pron
 
 If you look at a classic Software Development Life Cycle (SDLC) you will notice that security practices are implemented very late in the cycle.
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.jpg", alt: "there are 6 phasse in the cycle (visualization of a software development cycle in six phases: Analysis, Design, Development, Testing, Deployment and Maintenance. Security practices come into play only in the penultimate step, between deployment and maintenance", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.jpg", alt: "visualization of a software development cycle in six phases: Analysis, Design, Development, Testing, Deployment and Maintenance. Security practices come into play only in the penultimate step, between deployment and maintenance", widths: [300,600,800]} %}
 
 A better way to integrate security in a SDLC could be DevSecOps, where each phase has a security test associated to it. The idea is to treat security as a feature, not only as a requirement.
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.jpg", alt: "there are 6 phase in the cycle (visualization of a DevSecOps approach where security practices are integrated in each step of the cycle: analysis is paired with security requirement, design with threat modelling and security by design, development with vulnerability scanning and opensource health, testing with security testing, deployment with security configuration, maintenance with vulnerability scanning and opensource health.", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img4.jpg", alt: "visualization of a DevSecOps approach where security practices are integrated in each step of the cycle: analysis is paired with security requirement, design with threat modelling and security by design, development with vulnerability scanning and opensource health, testing with security testing, deployment with security configuration, maintenance with vulnerability scanning and opensource health.", widths: [300,600,800]} %}
 
 If you work in an Agile team you are probably not so sure about how to integrate security practices: tracking and dealing with security is one of Agile Development’s blind spots. In [Agile Application Security](https://www.oreilly.com/library/view/agile-application-security/9781491938836/) you will find more information on how to integrate security in your workflow.
 
@@ -178,7 +178,7 @@ If you work in an Agile team you are probably not so sure about how to integrate
 
 ## Be Qwik, don’t ship JavaScript by Liza Morrison
 
-{% image {src: "./blog/guest-blogs/images/techtalks-liza-morisson.jpg", alt: "Liza Morisson, widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-liza-morrison.jpg", alt: "Liza Morrison", widths: [300]} %}
 
 Liza Morrison is a software engineer from the United States, who specialises in front-end development. She moved to Belgium a year ago and has recently joined as a developer at Rosa.
 
@@ -197,6 +197,10 @@ When a website scores poorly on performance the blame falls on the the developer
 A common problem in software design is that as more features are added to the application, performance decays. One solution to keep performance rating stable in an increasingly complex application is to ship less JavaScript.
 
 [Qwik](https://qwik.builder.io/) is a new open source framework designed for the fastest possible page load time. It focuses on HTML : before it displays the component then it makes it interactive. Qwik skips the TTI phase: it starts on the server side and downloading the Qwikloader, a tiny piece of JavaScript (less than 1KB) that knows how to download the rest of the application on an as-needed basis.
+
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img5.jpg", alt: "The Qwik website claiming to be the Framework reimagined for the edge and no hydration, auto lazy-loading edge cacheable and fun!", widths: [300, 600, 800]} %}
+
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img6.jpg", alt: "The Qwik website listing the benefits to Qwik's approach to performance optimization", widths: [300, 600, 800]} %}
 
 ### Qwik's architecture
 
