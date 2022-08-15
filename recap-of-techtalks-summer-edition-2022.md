@@ -16,9 +16,9 @@ Lisa Trapletti shared some tips on how to eco-design our system, Asma Oualmakran
 
 <!-- excerpt -->
 
-## Lisa Trapletti - A path to sustainable IT. Eco-designing its digital services.
+## A path to sustainable IT. Eco-designing its digital services by Lisa Trapletti
 
-{% image {src: "./blog/guest-blogs/images/techtalks-sophie.png", alt: "Sophie Ragas", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-lisa-trapletti.jpg", alt: "Lisa Trapletti", widths: [300]} %}
 
 Lisa is a senior software developer working for iCure. She is certified in eco-design of digital services and passionate about the environmental transition and digital transformation.
 
@@ -48,7 +48,7 @@ We can identify two sources of impact:
 
 Even if data centres conjure the image of the most energy-consuming part of IT industry, it's the end user devices that are responsible for most of the environmental impact - and especially their manufacture!
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img1.pdf", alt: "a table showing that end user devices have by far the highest ecological impact (67,2%, compared to 12,3% of networks and 20,6% of data centres)", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img1.jpg", alt: "a table showing that end user devices have by far the highest ecological impact (67,2%, compared to 12,3% of networks and 20,6% of data centres)", widths: [300,600,1000]} %}
 
 Of all end user devices the top 3 with the biggest environmental impact are:
 
@@ -96,16 +96,16 @@ As developers we can implement only 20% of the eco-design practices discussed in
 
 #### Some tips & tools
 
-[To calculate accessibility score of your website](https://wave.webaim.org/)
-[To share files](https://filevert.fr/)
-[For secured visio-conferences](https://www.infomaniak.com/fr/kmeet)
-[To avoid WordPress to create a simple website](https://gohugo.io/)
-To repair your devices : [Repaircafe](https://repaircafe.org/fr/) & [Fixware](https://www.fixware.be/)
-[To buy reconditioned devices](https://www.asmartworld.be/)
+* [To calculate accessibility score of your website](https://wave.webaim.org/)
+* [To share files](https://filevert.fr/)
+* [For secured visio-conferences](https://www.infomaniak.com/fr/kmeet)
+* [To avoid WordPress to create a simple website](https://gohugo.io/)
+* To repair your devices : [Repaircafe](https://repaircafe.org/fr/) & [Fixware](https://www.fixware.be/)
+* [To buy reconditioned devices](https://www.asmartworld.be/)
 
-## Asma Oualmakran - Application security: Finding your way through buzzwords
+## Application security: Finding your way through buzzwords by Asma Oualmakran
 
-{% image {src: "./blog/guest-blogs/images/techtalks-autumn-2022-img5.png", alt: "a visual representation of how a satellite measures the fraction of reflected solar radiation", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-asma-oualmakran.jpg", alt: "Asma OUalmakran", widths: [300]} %}
 
 Asma is a Software Security Consultant at Software Improvement Group. She started as a general software person and then decided to specialise in security. Outside of her consultant role she is also a security officer, part of the research and development team (R&D) and a technical consultant.
 
@@ -151,11 +151,11 @@ Here are some catchphrases often heard in the tech industry. The person who pron
 
 If you look at a classic Software Development Life Cycle (SDLC) you will notice that security practices are implemented very late in the cycle.
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.pdf", alt: "there are 6 phasse in the cycle (visualization of a software development cycle in six phases: Analysis, Design, Development, Testing, Deployment and Maintenance. Security practices come into play only in the penultimate step, between deployment and maintenance", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.jpg", alt: "there are 6 phasse in the cycle (visualization of a software development cycle in six phases: Analysis, Design, Development, Testing, Deployment and Maintenance. Security practices come into play only in the penultimate step, between deployment and maintenance", widths: [300,600,1000]} %}
 
 A better way to integrate security in a SDLC could be DevSecOps, where each phase has a security test associated to it. The idea is to treat security as a feature, not only as a requirement.
 
-{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.pdf", alt: "there are 6 phase in the cycle (visualization of a DevSecOps approach where security practices are integrated in each step of the cycle: analysis is paired with security requirement, design with threat modelling and security by design, development with vulnerability scanning and opensource health, testing with security testing, deployment with security configuration, maintenance with vulnerability scanning and opensource health.", widths: [300,600,1000]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-summer-2022-img3.jpg", alt: "there are 6 phase in the cycle (visualization of a DevSecOps approach where security practices are integrated in each step of the cycle: analysis is paired with security requirement, design with threat modelling and security by design, development with vulnerability scanning and opensource health, testing with security testing, deployment with security configuration, maintenance with vulnerability scanning and opensource health.", widths: [300,600,1000]} %}
 
 If you work in an Agile team you are probably not so sure about how to integrate security practices: tracking and dealing with security is one of Agile Development’s blind spots. In [Agile Application Security](https://www.oreilly.com/library/view/agile-application-security/9781491938836/) you will find more information on how to integrate security in your workflow.
 
@@ -176,9 +176,9 @@ If you work in an Agile team you are probably not so sure about how to integrate
 - **Training tools** Secure code warrior, Secure Flag, Codebashing
 - **Security references** NVD, MITRE, ASVS, OWASP Top 10
 
-## Liza Morrison - Be Qwik, don’t ship JavaScript
+## Be Qwik, don’t ship JavaScript by Liza Morrison
 
-{% image {src: "./blog/guest-blogs/images/techtalks-marta.png", alt: "Marta Luffarelli", widths: [300]} %}
+{% image {src: "./blog/guest-blogs/images/techtalks-liza-morisson.jpg", alt: "Liza Morisson, widths: [300]} %}
 
 Liza Morrison is a software engineer from the United States, who specialises in front-end development. She moved to Belgium a year ago and has recently joined as a developer at Rosa.
 
