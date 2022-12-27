@@ -11,6 +11,7 @@ tags:
 layout: article
 preview: "Code is one of those things in life, where you don't know how useful it is until you get really proficient at it."
 featured: false
+excludeFromSitemap: true
 ---
 
 Have you ever thought about making your own website or personal blog easily and for free? <!-- excerpt --> Or maybe you want to learn some web development basics? Then this tutorial might be interesting for you.
