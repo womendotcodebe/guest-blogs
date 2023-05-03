@@ -8,7 +8,6 @@ tags:
     - guest-post
 layout: article
 metaIMG: "womendotcodebe-techtalks-recap-june2022.jpg"
-featured: true
 ---
 
 Buckle up for the recap of another eclectic edition of our TechTalks!
