@@ -1,5 +1,5 @@
 ---
-title: Recap of our TechTalks spring edition 2023
+title: "Recap of our TechTalks - Spring edition 2023"
 date: 2023-05-02
 author: "federicab"
 category: "techtalks"

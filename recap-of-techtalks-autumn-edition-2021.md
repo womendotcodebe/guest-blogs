@@ -1,5 +1,5 @@
 ---
-title: Recap of our TechTalks autumn edition 2021
+title: "Recap of our TechTalks - Autumn edition 2021"
 date: 2021-11-23
 author: "federicab"
 category: "techtalks"

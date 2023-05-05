@@ -1,5 +1,5 @@
 ---
-title: Recap of our TechTalks Sept 2020 – Online edition
+title: "Recap of our TechTalks Sept 2020 – Online edition"
 date: 2020-10-14
 author: "silkeh"
 category: "techtalks"

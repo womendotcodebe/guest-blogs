@@ -1,5 +1,5 @@
 ---
-title: Recap of our Tech Talks Feb 2021 Online edition
+title: "Recap of our Tech Talks Feb 2021 - Online edition"
 date: 2021-03-16
 author: "evab"
 category: "techtalks"

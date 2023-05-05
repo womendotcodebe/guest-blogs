@@ -1,5 +1,5 @@
 ---
-title: Recap of our TechTalks summer edition 2022
+title: "Recap of our TechTalks - Summer edition 2022"
 date: 2022-08-13
 author: "federicab"
 category: "techtalks"
