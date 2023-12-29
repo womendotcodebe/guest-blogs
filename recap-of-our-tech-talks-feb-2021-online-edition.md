@@ -9,7 +9,6 @@ tags:
 layout: article
 preview: "Code is one of those things in life, where you don't know how useful it is until you get really proficient at it."
 metaIMG: "womendotcodebe-techtalks-recap-feb2021.jpg"
-featured: false
 ---
 
 Another year and we’re off with the first edition of our Tech Talks! As we all suffer from video call overload these days we decided that a shorter format with 3 talks would be better to keep everyone engaged and fresh on a Thursday night.

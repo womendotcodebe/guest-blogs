@@ -9,7 +9,6 @@ tags:
 layout: article
 preview: "Code is one of those things in life, where you don't know how useful it is until you get really proficient at it."
 metaIMG: "womendotcodebe-techtalks-recap-sept2020.jpg"
-featured: false
 ---
 
 On the evening of the 14th September 2020, the women.code(be) community held their first online edition of their recurring TechTalks. For those who’ve missed it, don’t fret, we’ve got you covered!

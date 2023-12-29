@@ -4,8 +4,8 @@ date: 2023-05-02
 author: "federicab"
 category: "techtalks"
 tags:
-  - post
-  - guest-post
+    - post
+    - guest-post
 layout: article
 metaIMG: "womendotcodebe-techtalks-recap-april2023.jpg"
 featured: true
