@@ -10,6 +10,7 @@ tags:
 layout: article
 featured: true
 source: "https://tech.reyndeer.com/articles/building-sustainable-websites/"
+sourceName: "tech.reyndeer.com"
 ---
 
 Have you ever took a moment to stand still and think about the impact you're making with the websites you're building?
