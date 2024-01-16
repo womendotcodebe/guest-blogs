@@ -10,8 +10,6 @@ tags:
     - guest-post
 layout: article
 preview: "Are you already using variable fonts? No? Find out why and how you should start using variable fonts."
-featured: true
-
 ---
 
 You might not be a web typography freak, but no developer likes a FOUT (Flash Of Unstyled Text) welcoming users on their pages. Variable fonts are here to help. And if you really are kind of a web typography freak, you will be even more enticed to hear about variable fonts. So let’s get started!
