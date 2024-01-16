@@ -33,7 +33,7 @@ IT produces approximately 4% of global carbon emissions and is responsible for 1
   <p>Research estimates that by 2025, the IT industry could use 20% of all electricity produced and emit up to 5.5% of the world’s carbon emissions.</p>
   </blockquote>
 
-  <figcaption>⎯  Source: <a href="https://theconversation.com/the-internet-consumes-extraordinary-amounts-of-energy-heres-how-we-can-make-it-more-sustainable-160639" target="_blank" rel="noopener noreferrer">>theconversation.com</a>
+  <figcaption>⎯  Source: <a href="https://theconversation.com/the-internet-consumes-extraordinary-amounts-of-energy-heres-how-we-can-make-it-more-sustainable-160639" target="_blank" rel="noopener noreferrer">theconversation.com</a>
   </figcaption>
 </figure><br>
 
@@ -57,7 +57,7 @@ All we do can be traced back to data, so we can expect that data usage and stora
     <p>90% of content indexed by Google has 0 visitors (ever).</p>
   </blockquote>
 
-  <figcaption>⎯  Source: <a href="https://ahrefs.com/blog/search-traffic-study/" target="_blank" rel="noopener noreferrer">>ahref blog</a>
+  <figcaption>⎯  Source: <a href="https://ahrefs.com/blog/search-traffic-study/" target="_blank" rel="noopener noreferrer">ahref blog</a>
   </figcaption>
 </figure><br>
 
